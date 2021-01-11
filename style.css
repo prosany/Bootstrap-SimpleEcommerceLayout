@@ -1,0 +1,98 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+header {
+	background: #af0030;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+header img {
+	width: 150px;
+	height: auto;
+}
+.col-main-bg {
+	background: #232323;
+	height: 50px;
+	height: 50px;
+}
+.col-sm-8 img {
+	width: 100%;
+	height: auto;
+}
+.padding {
+	padding: 30px;
+	box-sizing: border-box;
+}
+.col-lt {
+	float: left;
+	width: 50%;
+	text-align: left;
+	font-size: 12px;
+}
+.col-rt {
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.col-rt i {
+	padding: 0px 1px;
+	color: #efa500;
+	font-size: 10px;
+	vertical-align: middle;
+}
+.col-lt-pr {
+	padding-top: 35px;
+}
+.col-lt-pr p {
+	margin-top: -5px;
+}
+.col-lt-pr p span {
+	text-decoration: line-through;
+}
+.col-lt-ds {
+	padding-top: 10px;
+}
+.col-lt-ds h6 {
+	border-bottom: 2px solid #efa500;
+	padding: 4px 0px;
+	width: 86px;
+}
+.col-lt-ds p {
+	text-align: justify;
+}
+.btn-spc button {
+	margin: 4px 4px;
+	color: #333;
+	font-weight: bold;
+}
+.col-sm-12 h5 {
+	border-bottom: 2px solid #efa500;
+	padding: 4px 0px;
+	width: 160px;
+}
+.produ {
+	text-align: center;
+	margin: 20px 0px;
+}
+.produ img {
+	width: 100%;
+	height: auto;
+}
+.pro-title {
+	font-size: 16px;
+	color: #333;
+	font-weight: bold;
+}
+
+.br {
+	height: 100px;
+}
+
+
+
+p {
+	color: #333;
+	font-size: 12px;
+}
